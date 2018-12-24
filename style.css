@@ -119,7 +119,7 @@ button {
 }
 
 button:hover { font-weight: 600; }
-button:hover i { margin-right: 40px; }
+button:hover i { margin-right: 30px; }
 
 button:focus {
     outline: none;
@@ -145,7 +145,7 @@ i {
     left: 82%;
 }
 .btn-roll { top: 390px;}
-.btn-hold { top: 420px;}
+.btn-hold { top: 430px;}
 
 .dice {
     position: absolute;
@@ -156,5 +156,5 @@ i {
     box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.10);
 }
 
-.winner { background-color: #f7f7f7; }
+.winner { background-color: #555; }
 .winner .player-name { font-weight: 300; color: #e1bee7; }
